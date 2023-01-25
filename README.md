@@ -9,6 +9,8 @@ Practice multi hop pivoting on windows and linux environment
 - Windows to Linux
 #### Exercise 4
 - Windows to Windows
+#### Exercise 5
+- File transfer with using and curl
 
 ### Tools
 1. Meterpreter
